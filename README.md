@@ -10,13 +10,19 @@ El objetivo de este proyecto es crear un sistema simple de gestión de tareas do
 - **Ciclos:** Para mostrar el menú y permitir múltiples operaciones hasta que el usuario decida salir.
 
 ## 🚀 Funcionalidades
-- 📝 **Agregar Tarea:** Permite al usuario agregar una nueva tarea con un título y una descripción.
-- ❌ **Eliminar Tarea:** Permite al usuario eliminar una tarea existente.
-- 📋 **Ver Tareas:** Muestra todas las tareas con su estado.
-- ✅ **Marcar Tarea como Completada:** Permite al usuario marcar una tarea como completada.
+- **Agregar Tarea:** Permite al usuario agregar una nueva tarea con un título y una descripción.
+- **Eliminar Tarea:** Permite al usuario eliminar una tarea existente.
+- **Ver Tareas:** Muestra todas las tareas con su estado.
+- **Marcar Tarea como Completada:** Permite al usuario marcar una tarea como completada.
 - **Salir:** Termina el programa.
-- 🔚 **Menú Principal:** Un ciclo que muestra las opciones disponibles y solicita la elección del usuario.
+- **Menú Principal:** Un ciclo que muestra las opciones disponibles y solicita la elección del usuario.
 - **Estructura del Código
+
+## 🚀 Funciones
+- 📝 **agregar_tarea():** Para agregar una nueva tarea.
+- ❌ **eliminar_tarea():** Para eliminar una tarea existente.
+- 📋 **ver_tareas():** Para mostrar todas las tareas.
+- ✅ **marcar_completada():** Para marcar una tarea como completada.
 
 ## Estructura
 - **/EJERCICIO 1**
